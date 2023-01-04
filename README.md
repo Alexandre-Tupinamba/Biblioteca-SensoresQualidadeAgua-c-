@@ -3,7 +3,10 @@ Repositório para guardar tudo relacionado ao projeto Super, desenvolvido em par
 
 <h1 align="center">
   <p align="center">Sensores</p>
-  <a href="https://docusaurus.io"><img src="https://docusaurus.io/img/slash-introducing.svg" alt="Docusaurus"></a>
+  
+  
+  ![enconrto das aguas](https://user-images.githubusercontent.com/60014649/210668586-2bff9f8c-621c-4706-93ef-8e196d92e870.jpg)
+
 </h1>
 
 <p align="center">
@@ -42,12 +45,15 @@ Esse repositório vai expor as bibliotecas feitas para integração dos sensores
 
 > While Docusaurus ships with the key pages and sections you need to get started, including a home page, a docs section, a [blog](https://docusaurus.io/docs/blog), and additional support pages, it is also [customizable](https://docusaurus.io/docs/creating-pages) as well to ensure you have a site that is [uniquely yours](https://docusaurus.io/docs/styling-layout).
 
-## Instalaç
+## Instalação
 
-Use the initialization CLI to create your site:
-
+clone o repositório com o gi clone na linha de comando, dessa forma:
 ```bash
-npm init docusaurus@latest
+git clone https://github.com/Alexandre-Tupinamba/Projeto-IOT-monitoramento-remoto-de-guas-amazonicas.git)
+```
+se não tiver o git clone instalado, instale da seguinte forma:
+```bash
+git clone https://github.com/Alexandre-Tupinamba/Projeto-IOT-monitoramento-remoto-de-guas-amazonicas.git)
 ```
 
 [Read the docs](https://docusaurus.io/docs/installation) for any further information.
