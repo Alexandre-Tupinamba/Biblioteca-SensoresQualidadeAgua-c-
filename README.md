@@ -28,27 +28,21 @@ Repositório para guardar tudo relacionado ao projeto Super, desenvolvido em par
 
 > Docusaurus v1 doc is available at [v1.docusaurus.io](https://v1.docusaurus.io) and code is available on branch [docusaurus-v1](https://github.com/facebook/docusaurus/tree/docusaurus-v1)
 
-## Introduction
+## Introdução
 
-Docusaurus is a project for building, deploying, and maintaining open source project websites easily.
-
-Short on time? Check out our [5-minute tutorial ⏱️](https://tutorial.docusaurus.io)!
+Esse repositório vai expor as bibliotecas feitas para integração dos sensores usados para o monitoramento remoto dos rios amazônicos.
 
 **Tip**: use **[docusaurus.new](https://docusaurus.new)** to test Docusaurus immediately in a playground.
 
-- **Simple to Start**
+- **Para começar**
 
-> Docusaurus is built in a way so that it can [get running](https://docusaurus.io/docs/installation) in as little time as possible. We've built Docusaurus to handle the website build process so you can focus on your project.
-
-- **Localizable**
-
-> Docusaurus ships with [localization support](https://docusaurus.io/docs/i18n/introduction) via CrowdIn. Empower and grow your international community by translating your documentation.
-
+> clone o repositório e adicione as bibliotecas a pasta do arduino, cada pasta é especifica para cada sensor, com seu respetivo nome.
+> 
 - **Customizable**
 
 > While Docusaurus ships with the key pages and sections you need to get started, including a home page, a docs section, a [blog](https://docusaurus.io/docs/blog), and additional support pages, it is also [customizable](https://docusaurus.io/docs/creating-pages) as well to ensure you have a site that is [uniquely yours](https://docusaurus.io/docs/styling-layout).
 
-## Installation
+## Instalaç
 
 Use the initialization CLI to create your site:
 
