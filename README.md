@@ -53,7 +53,7 @@ git clone https://github.com/Alexandre-Tupinamba/Projeto-IOT-monitoramento-remot
 ```
 se não tiver o git clone instalado, instale da seguinte forma:
 ```bash
-git clone https://github.com/Alexandre-Tupinamba/Projeto-IOT-monitoramento-remoto-de-guas-amazonicas.git)
+sudo apt install git
 ```
 
 [Read the docs](https://docusaurus.io/docs/installation) for any further information.
