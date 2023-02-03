@@ -1,0 +1,4 @@
+Turbidez	KEYWORD1
+pegaValorTurbidezNTU	KEYWORD2
+pegaValorTurbidezMedia	KEYWORD2
+pegaValorVoltagem	KEYWORD2

@@ -1,0 +1,4 @@
+Ph	KEYWORD1
+pegaValorPh	KEYWORD2
+SomaOuSubtraiNaCalibração	KEYWORD2
+pegaValorPhMedia	KEYWORD2
