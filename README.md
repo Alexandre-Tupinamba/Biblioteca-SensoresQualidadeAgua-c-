@@ -70,6 +70,7 @@ This project exists thanks to all the people who contribute. [[Contribute](CONTR
 
 ## Sponsors
 
+![Captura de tela de 2023-02-03 14-33-21](https://user-images.githubusercontent.com/60014649/216680764-42e60121-55ed-4081-83ab-551321131ab0.png)
 
 
 
@@ -82,3 +83,16 @@ This project exists thanks to all the people who contribute. [[Contribute](CONTR
 [![Rocket Validator logo](./admin/img/rocketvalidator-logo.png)](https://rocketvalidator.com/)
 
 [Rocket Validator](https://rocketvalidator.com/) helps us find HTML markup or accessibility issues.
+// TDS explicação
+Analog TDS Sensor 
+Projeto Medidor de TDS Arduino para Condutividade Água - Blog UsinaInfo
+
+https://www.usinainfo.com.br/blog/projeto-medidor-de-tds-arduino-para-condutividade-da-agua/
+//Turbidez
+
+https://www.usinainfo.com.br/blog/sensor-de-turbidez-projeto-de-leitura-da-qualidade-da-agua/
+
+//PH
+https://www.usinainfo.com.br/blog/sensor-de-ph-arduino-como-calibrar-e-configurar/
+
+
