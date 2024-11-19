@@ -27,7 +27,7 @@ Esse repositório vai expor as bibliotecas feitas para integração dos sensores
 
 clone o repositório com o gi clone na linha de comando, dessa forma:
 ```bash
-git clone https://github.com/Alexandre-Tupinamba/Projeto-IOT-monitoramento-remoto-de-guas-amazonicas.git)
+git clone https://github.com/Alexandre-Tupinamba/Projeto-IOT-monitoramento-remoto-de-guas-amazonicas.git
 ```
 
 se não tiver o git clone instalado, instale da seguinte forma:
